@@ -1,0 +1,1594 @@
+{
+  "_type": "News",
+  "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=Cryptocurrency",
+  "queryContext": {
+    "_type": "QueryContext",
+    "originalQuery": "Cryptocurrency",
+    "adultIntent": false
+  },
+  "totalEstimatedMatches": 43,
+  "sort": [
+    {
+      "_type": "SortValue",
+      "name": "Höchste Übereinstimmung",
+      "id": "relevance",
+      "isSelected": true,
+      "url": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=Cryptocurrency"
+    },
+    {
+      "_type": "SortValue",
+      "name": "Neueste",
+      "id": "date",
+      "isSelected": false,
+      "url": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=Cryptocurrency&sortby=date"
+    }
+  ],
+  "value": [
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency prices today: Bitcoin falls again, last down 4%; Ethereum down 7%",
+      "url": "https:\/\/www.livemint.com\/market\/cryptocurrency\/cryptocurrency-prices-today-bitcoin-falls-again-last-down-4-ethereum-down-7-11642931056060.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.xR86WkeuVngqPDSNdE4nZS&pid=News",
+          "width": 600,
+          "height": 338
+        }
+      },
+      "description": "Over the past seven trading days, Bitcoin has shed around 20% of its value compared with nearly 30% for Ethereum",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/e747825b-167c-52de-e0b7-3d96637e83cc",
+          "name": "Ethereum"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Mint",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.W8vM8p2PIvfc6Sh2F0nZpA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T10:10:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency investments not suitable for most people",
+      "url": "https:\/\/www.theaustralian.com.au\/business\/markets\/cryptocurrency-investments-not-suitable-for-most-people\/news-story\/502be26134d9f2146218647fcd27a90e",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.obDxJti__l50lunGSkTG0S&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "For the first time in history outside of a widespread markets collapse a major so-called asset class has lost more than US1 trillion 1.4 trillion in three months. By Friday, the cryptocurrency market led by bitcoin had fallen more than 45 per cent since its October peak.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Australian",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.S__BsNBpP5K6XUunE-_mxg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T04:20:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Here's My Top Cryptocurrency to Buy in the New Year",
+      "url": "https:\/\/www.fool.com\/investing\/2022\/01\/22\/heres-my-top-cryptocurrency-to-buy-in-the-new-year\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.HnGcgnvaZwUd8BvmqmiA6i&pid=News",
+          "width": 700,
+          "height": 419
+        }
+      },
+      "description": "The beginning of the year can be a fantastic opportunity to make adjustments to your portfolio and add new investments to the mix. If you've been on the fence about whether to invest in cryptocurrency,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/b8da7642-ff05-b57b-60e4-e7e376305962",
+          "name": "The New Year"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+          "name": "The Motley Fool"
+        }
+      ],
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "The New Year"
+        },
+        {
+          "_type": "Thing",
+          "name": "The Motley Fool"
+        },
+        {
+          "_type": "Thing",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Motley Fool",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T16:00:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Poll: Have you bought any cryptocurrency?",
+      "url": "https:\/\/www.thejournal.ie\/cryptocurrency-ireland-5662429-Jan2022\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.IPjPfH2vSZoJ1qAA9HPkHC&pid=News",
+          "width": 613,
+          "height": 400
+        }
+      },
+      "description": "Cryptocurrencies have soared in popularity in recent years.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/79645569-1a26-1d59-d3af-29a160c04ba8",
+          "name": "TheJournal.ie"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a8008a03-d600-4a57-b269-c7ee896ab9f7",
+          "name": "Ireland"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/77f28672-5669-4775-a58a-b62b17779010",
+          "name": "Ireland"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "TheJournal.ie"
+        }
+      ],
+      "datePublished": "2022-01-23T10:50:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "New to Crypto? Do These 3 Things Before You Buy",
+      "url": "https:\/\/www.msn.com\/en-us\/finance\/savingandinvesting\/new-to-crypto-do-these-3-things-before-you-buy\/ar-AAT3t8C",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.-TBEeMRp3Se1XFC4vkn1fS&pid=News",
+          "width": 700,
+          "height": 474
+        }
+      },
+      "description": "However, there are a few things to keep in mind before you buy. The most important thing to know about cryptocurrency is that it's a speculative investment. This means nobody knows for certain whether it will succeed over the long term,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+          "name": "The Motley Fool"
+        }
+      ],
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "The Motley Fool"
+        },
+        {
+          "_type": "Thing",
+          "name": "Final good"
+        },
+        {
+          "_type": "Thing",
+          "name": "Account"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Motley Fool on MSN.com",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T11:00:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency Prices Today: Bitcoin falls over 1%, Solana tumbles 14%",
+      "url": "https:\/\/www.msn.com\/en-in\/money\/topstories\/cryptocurrency-prices-today-bitcoin-falls-over-1percent-solana-tumbles-14percent\/ar-AAT2YhZ",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.r2szz5APwD3vi4X-FNLMMC&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "The global cryptocurrency market capitalisation dropped to $1.6 trillion from $1.7 trillion during the last 24 hours while the trading volume rose from $126 billion to $130 billion.The decentralised finance (DeFi) cryptocurrency market cap increased 7.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "MSN",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.FPGiCjSpNWuR3YuGCSVHjA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T03:19:29.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Bitcoin Crash: Cryptocurrency falls 5.6% to $34,448, Ether drops 8.4%",
+      "url": "https:\/\/www.msn.com\/en-in\/news\/other\/bitcoin-crash-cryptocurrency-falls-5-6-to-34-448-ether-drops-8-4\/ar-AAT384D",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.QLUAG__XPSkGH1jwbKSesS&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "GMT on Saturday, losing 1,878.27 from its previous close. Bitcoin, the world`s biggest and best-known cryptocurrency, is up 1.8% from the year's low of $34,000 on Jan. 22.  Ether, the coin linked to the ethereum blockchain network,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "MSN",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.FPGiCjSpNWuR3YuGCSVHjA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T07:11:25.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "NYC Mayor takes pay cut as cryptocurrency market plunges",
+      "url": "https:\/\/www.msn.com\/en-us\/finance\/realestate\/nyc-mayor-takes-pay-cut-as-cryptocurrency-market-plunges\/ar-AAT2BI3",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.UdBFiJWAQj_1JsgVpHnmJS&pid=News",
+          "width": 700,
+          "height": 366
+        }
+      },
+      "description": "Even in the midst of a crypto slump, New York City Mayor Eric Adams isn’t backing out of his plans to take his first three paychecks in Bitcoin and Ethereum. Bitcoin fell beneath $36,000 on Friday — a 47 percent dive from its all-time high in November — dragging the entire cryptocurrency market cap below $2 trillion.",
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "Mature market"
+        },
+        {
+          "_type": "Thing",
+          "name": "Mayor of New York City"
+        },
+        {
+          "_type": "Thing",
+          "name": "The Verge"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Verge on MSN.com",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.Eo5m7BPNFOPugCZcNswMBg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T16:22:07.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "$1.4bn cryptocurrency crash not over yet",
+      "url": "https:\/\/www.theaustralian.com.au\/business\/markets\/14bn-cryptocurrency-crash-not-over-yet\/news-story\/45bf3a6f3c8ed16913811bc1688e48b9",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.ppB3qvFzWxl11ZPqPvRW2i&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "A crypto crash sparked by a sell-off of risk assets has wiped well in excess of US1 trillion 1.39 trillion off digital currencies, with leader bitcoin plunging 50 per cent in a matter of weeks. But the bloodbath may not be over,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Australian",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.S__BsNBpP5K6XUunE-_mxg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T06:33:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency crash wipes out more than US$1 trillion in market value",
+      "url": "https:\/\/www.scmp.com\/business\/article\/3164348\/cryptocurrency-crash-wipes-out-more-us1-trillion-market-value?module=live&pgtype=homepage",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.C9vsaq7vFyG51WvIvDUd2i&pid=News",
+          "width": 700,
+          "height": 367
+        }
+      },
+      "description": "Bitcoin’s decline since that November high has wiped out more than US$600 billion in market value, and over US$1 trillion has been lost from the aggregate cryptocurrency market.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a469d771-2e3e-8453-921f-bd34bf70b560",
+          "name": "Market value"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "South China Morning Post",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.U1dT5-aAjlpGBBrm2ReeYg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T13:00:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency Is a Giant Ponzi Scheme",
+      "url": "https:\/\/jacobinmag.com\/2022\/01\/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization?s=09",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.3TLSeJqwAq9Q4bKqh4EysC&pid=News",
+          "width": 700,
+          "height": 467
+        }
+      },
+      "description": "Cryptocurrency is not merely a bad investment or speculative bubble. It’s worse than that: it’s a full-on fraud.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Jacobin",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.RrTQCW2LPNQQ7Yo3ieNvYA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T13:01:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Increase regulatory focus on cryptocurrency: Pre-Budget expectations survey",
+      "url": "https:\/\/www.business-standard.com\/budget\/article\/increase-regulatory-focus-on-cryptocurrency-pre-budget-expectations-survey-122012300002_1.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.0-waNESFJskWIMGZZRtQTC&pid=News",
+          "width": 620,
+          "height": 464
+        }
+      },
+      "description": "A pre-Budget expectations survey on Saturday showed a growing demand for increasing regulatory focus on the cryptocurrency sector.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9c4c6740-9482-4917-e9af-876c29d9f749",
+          "name": "Budget"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Business Standard",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.6yYEGE61ig4jYI6NTUmjjg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T01:34:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Increase regulatory focus on cryptocurrency: Pre-Budget survey",
+      "url": "https:\/\/www.indiatvnews.com\/business\/news\/union-budget-2022-expectations-cryptocurrency-sector-growing-demand-regulating-private-cryptocurrencies-nfts-blockchain-2022-01-23-755856",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.6w56k_lJiNR-DrCMPTi1UC&pid=News",
+          "width": 700,
+          "height": 408
+        }
+      },
+      "description": "As per the Grant Thornton Bharat survey, nearly 79 per cent of the respondents feel that Budget FY23 should focus on regulating cryptocurrencies and NFTs.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9c4c6740-9482-4917-e9af-876c29d9f749",
+          "name": "Budget"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "India TV",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.IaXDAOnJaO-iU5IbMMsMHw&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T07:18:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Bitcoin price plunges to $35,300; Ether, Solana, Memecoins too suffer in cryptocurrency crash",
+      "url": "https:\/\/www.msn.com\/en-in\/news\/other\/bitcoin-price-plunges-to-2435300-ether-solana-memecoins-too-suffer-in-cryptocurrency-crash\/ar-AAT3h3E",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.s-xzmqqUDvs7CY59T5Ti-i&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Over the past seven trading days, Bitcoin price has shed around 20% of its value compared with nearly 30% for Ether.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        }
+      ],
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "name": "Cryptocurrency"
+        },
+        {
+          "_type": "Thing",
+          "name": "Drogen"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hindustan Times on MSN.com",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.fKz4OicvphPrrnhhwRtD9A&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T09:43:27.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency in India: Budget 2022 should clarify govt stance, says Archit Gupta",
+      "url": "https:\/\/tech.hindustantimes.com\/tech\/news\/cryptocurrency-in-india-budget-2022-should-clarify-govt-stance-says-archit-gupta-71642836155484.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.EMgloof3N6mxLs7UgWz5vC&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "The Union Budget 2022 is expected to bring clarity on cryptocurrency tax, says Archit Gupta, Founder and CEO, Clear.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/85fa63d3-9596-adb9-b4eb-502273d84f56",
+          "name": "India"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/54cf42d1-574a-a14a-5063-e378730200ff",
+          "name": "Gupta Empire"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9c4c6740-9482-4917-e9af-876c29d9f749",
+          "name": "Budget"
+        }
+      ],
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "India"
+        },
+        {
+          "_type": "Thing",
+          "name": "Gupta Empire"
+        },
+        {
+          "_type": "Thing",
+          "name": "Budget"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hindustan Times",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.fKz4OicvphPrrnhhwRtD9A&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T18:57:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency Prices: Bitcoin falls over 1%, Solana tumbles 14%",
+      "url": "https:\/\/pragativadi.com\/cryptocurrency-prices-bitcoin-falls-over-1-solana-tumbles-14\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.qqzlcceyueZU7m1zB04brC&pid=News",
+          "width": 700,
+          "height": 416
+        }
+      },
+      "description": "The global cryptocurrency market capitalisation dropped to $1.6 trillion from $1.7 trillion during the last 24 hours",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9300e9a9-0a6e-e228-137c-710b3ca69771",
+          "name": "Pragativadi"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Pragativadi"
+        }
+      ],
+      "datePublished": "2022-01-23T06:16:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Georgia’s mountainous cryptocurrency problem",
+      "url": "https:\/\/www.intellinews.com\/georgia-s-mountainous-cryptocurrency-problem-232603\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.-6WWXhj4D9x8IxKv6efVjC&pid=News",
+          "width": 700,
+          "height": 396
+        }
+      },
+      "description": "Just ahead of the new year, residents of Georgia’s remote mountain region of Svaneti gathered in a church to make a solemn oath upon an icon of St",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4fe7777a-3d26-0e6a-243d-ae6d45c843c6",
+          "name": "Georgia"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Business New Europe",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.yMJBq295SRpjMVRw12v2xw&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T23:33:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Products & Services You Can Pay for in Cryptocurrency in Cuba",
+      "url": "https:\/\/havanatimes.org\/features\/products-services-you-can-pay-for-in-cryptocurrency-in-cuba\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.T94ZhxLoyydbo3d3fgYM3i&pid=News",
+          "width": 700,
+          "height": 410
+        }
+      },
+      "description": "The cryptocurrency community in Cuba is constantly growing. However, there are people who doubt the purchasing power of",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/bd1112ec-a711-52b0-92b0-a57a633f397e",
+          "name": "Cuba"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/854583c0-25cd-edb2-b475-7addf30510f9",
+          "name": "Pay"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/55ead255-7e42-47aa-81db-1491fe173058",
+          "name": "Havana Times"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Havana Times.org",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.bq1uumOUpebsaAB6oHw6oA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T15:37:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Stablecoin trading volume spikes as crypto investors take cover from falling market",
+      "url": "https:\/\/nairametrics.com\/2022\/01\/23\/stablecoin-trading-volume-spikes-as-crypto-investors-take-cover-from-falling-market\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.o-Ad5fqmQ5pVOhIVAalP1i&pid=News",
+          "width": 700,
+          "height": 437
+        }
+      },
+      "description": "Data reveals that there has been a spike in stablecoin activity in the last 48 hours as the cryptocurrency market",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/019bd55d-9243-4913-43c0-9e710cf4df58",
+          "name": "Volume"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Nairametrics",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.vjK0ozspofWB5EN91VV-lA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T10:53:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Service station worker turns $4K into $100m cryptocurrency, NFT empire",
+      "url": "https:\/\/www.newstalkzb.co.nz\/news\/business\/service-station-worker-turns-4k-into-100m-cryptocurrency-nft-empire\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.pD1ZkOcy9cXPFwd1beXVRS&pid=News",
+          "width": 635,
+          "height": 395
+        }
+      },
+      "description": "A Queenslander who started off working at his local service station for just A$15 ($15.72) per hour is now worth at least A$100 million if he cashed out on",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Newstalk ZB",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.1BVBE5WWF5ZLuE-pfn5nDg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T09:11:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "New New York Mayor takes his first salary in cryptocurrency",
+      "url": "https:\/\/www.business-standard.com\/article\/markets\/new-new-york-mayor-takes-his-first-salary-in-cryptocurrency-122012200912_1.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.ECrE0ZkMOwKmX99si-BgHi&pid=News",
+          "width": 620,
+          "height": 464
+        }
+      },
+      "description": "Mayor of New York City Eric Adams received his first paycheck in cryptocurrency -- specifically, in a combination of Bitcoin and Ethereum coins",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9d7bad9f-d502-6e73-db29-a3381df51bd7",
+          "name": "New New York"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/79baf926-ed89-db38-d998-ffdcd716a204",
+          "name": "Mayor of New York City"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Business Standard",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.6yYEGE61ig4jYI6NTUmjjg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T13:54:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Is the allure of cryptocurrency fading?",
+      "url": "https:\/\/azdailysun.com\/business\/investment\/is-the-allure-of-cryptocurrency-fading\/article_38bc89af-a48c-5e60-b3a1-4ce15848a2f4.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.__kMXnNOF7yjEyLlGKaupS&pid=News",
+          "width": 200,
+          "height": 200
+        }
+      },
+      "description": "Bitcoin dropped to a three-month low recently and its movement has closely mirrored financial markets in its decline.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Arizona Daily Sun",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.x8pBhLsFD9n86rGL3i4utg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T19:15:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "WBroker Embraced Cryptocurrency Giant AEX",
+      "url": "https:\/\/www.nasdaq.com\/press-release\/wbroker-embraced-cryptocurrency-giant-aex-2022-01-22",
+      "description": "WBroker collaborates with AEX, one of the biggest crypto exchange in Asia. At the beginning of 2022, WBroker changes to win by collaborating with AEX, which used to be the biggest crypto exchange in Asia.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Nasdaq",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.unJQfw1X6GLI-H7BH_dYFQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T14:06:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Cryptocurrency Payment Gateway NOWPayments has Developed a Strategic Partnership with Radio Caca (RACA)",
+      "url": "https:\/\/finance.yahoo.com\/news\/cryptocurrency-payment-gateway-nowpayments-developed-024800673.html",
+      "description": "NowPayments and Radio Caca (RACA) partner to enable merchants to accept $RACA as a crypto payment for business use and charitable donations Singapore, SIngapore--(Newsfile Corp. - January 22, 2022) - NowPayments and Radio Caca (RACA) have partnered together.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/20238615-f82e-bddd-e11e-9332269d5660",
+          "name": "Payment gateway"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/e047b143-0f26-400c-5ae6-f50bfd116c0c",
+          "name": "Strategic management"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!Finance",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.fJDJ4f2BFbmOkQx_rnDw3Q&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T02:48:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Philippine bank to launch cryptocurrency trading service",
+      "url": "https:\/\/gulfnews.com\/your-money\/cryptocurrency\/philippine-bank-to-launch-cryptocurrency-trading-service-1.1642851537297",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.YFZEFieJSVLui6wXMV0n6S&pid=News",
+          "width": 540,
+          "height": 405
+        }
+      },
+      "description": "Union Bank of the Philippines plans to offer trading and custodial services for cryptocurrencies to capitalize on fast adoption of digital tokens in the Asian nation. The average Filipino investor will likely hold 3% to 5% of their personal assets in digital assets like Bitcoin in five years assuming markets are \"stable,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/fe47e182-43d6-4546-8bee-86609d6dd805",
+          "name": "Philippines"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Gulf News",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.4wsvtkOZ8yJhFubl7IwTdg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T11:38:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Financial Conduct Authority gets tough on high-risk cryptocurrency adverts",
+      "url": "https:\/\/www.thisismoney.co.uk\/money\/crypto\/article-10430349\/Financial-Conduct-Authority-gets-tough-high-risk-cryptocurrency-adverts.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.tz5d8Zdq8DNlgmevTGV6ly&pid=News",
+          "width": 636,
+          "height": 382
+        }
+      },
+      "description": "Adverts for cryptocurrencies will be treated in the same way as other financial promotions, the watchdog now says.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/44c3d8ea-5fbe-69e7-dc5b-d4109b17b8eb",
+          "name": "This is..."
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/17f59340-6fd5-a988-0fa3-5e3684698619",
+          "name": "Financial Conduct Authority"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "This is Money",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.vNEz1z7JQU4tCQZX-QvQhw&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T20:50:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Ireland's advertising watchdog aware of 'increasing concern' over misleading cryptocurrency ads",
+      "url": "https:\/\/www.msn.com\/en-ie\/news\/other\/irelands-advertising-watchdog-aware-of-increasing-concern-over-misleading-cryptocurrency-ads\/ar-AAT2IjN",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.B87rJ1EJbAmBvlFIrfV2vi&pid=News",
+          "width": 613,
+          "height": 400
+        }
+      },
+      "description": "Spain and the United Kingdom have both unveiled new rules aimed at tightening advertising standards for crypto-assets.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/77f28672-5669-4775-a58a-b62b17779010",
+          "name": "Ireland"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/227741c2-e8fe-0929-80a2-cdb6d0128b96",
+          "name": "Propaganda techniques"
+        }
+      ],
+      "mentions": [
+        {
+          "_type": "Thing",
+          "name": "Ireland"
+        },
+        {
+          "_type": "Thing",
+          "name": "Propaganda techniques"
+        },
+        {
+          "_type": "Thing",
+          "name": "Misleading financial analysis"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "TheJournal.ie on MSN.com"
+        }
+      ],
+      "datePublished": "2022-01-22T20:04:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "CRYPTOCURRENCY PLATFORM CRYPTO COM",
+      "url": "https:\/\/economictimes.indiatimes.com\/topic\/cryptocurrency-platform-crypto-com\/news",
+      "description": "Cryptocurrency prices, including those of Bitcoin, Ethereum and Solana slid 8-10% today as a result of a proposed ban on cryptocurrencies in Russia and the fall in the US stock markets. SoftBank Vision Fund CEO Rajeev Misra,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "India Times",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.ajXT0U6_LaErmc8AT6Kh3Q&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T07:21:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Taxation of Cryptocurrency",
+      "url": "https:\/\/www.linkedin.com\/pulse\/taxation-cryptocurrency-ca-cfa-n-p-yadav",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.2UcNDssws9XK9nGDXfkwLS&pid=News",
+          "width": 700,
+          "height": 366
+        }
+      },
+      "description": "Crypto currency—that’s a mouthful, let’s call it crypto for short—has become pretty commonplace these days. No longer a taboo topic, more and more people are turning to crypto as an alternative currency.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "LinkedIn",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.9U20Y3UJQODn92MP4yeEXg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T16:42:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "In a hack, the Crypto.com exchange lost $30 million in cryptocurrency",
+      "url": "https:\/\/bestgamingpro.com\/in-a-hack-the-crypto-com-exchange-lost-30-million-in-cryptocurrency\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.6Kk49LgpeNZaK4HdvCGcgy&pid=News",
+          "width": 600,
+          "height": 375
+        }
+      },
+      "description": "Crypto.com, a cryptocurrency exchange, has been hacked, according to reports. The exchange stated in a statement on its website that a breach occurred few days ago, resulting in the theft of more than $30 million in bitcoin and Ethereum.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "bestgamingpro",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.tp2ZF4KiYpoaXq828FdycA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T17:50:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Why bitcoin just crashed - and cryptocurrency index is down 30pc this year",
+      "url": "https:\/\/www.nzherald.co.nz\/business\/why-bitcoin-just-crashed-and-cryptocurrency-index-is-down-30pc-this-year\/DECYL2AQR5JPO65EDO2DCNQ5UA\/",
+      "description": "Bitcoin dropped to a six-month low on Saturday, extending a steep fall recorded in the previous session as the cryptocurrency market was swept up in a powerful shift by investors out of speculative assets.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The New Zealand Herald",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.h5PSiTwmPhAF0S_Ew_4zIg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T20:00:00.0000000Z",
+      "category": "Business"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Binance Coin Price (BNB INR)",
+      "url": "https:\/\/gadgets.ndtv.com\/finance\/binance-coin-price-in-india-today-inr",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.vAMMSXYH5_qMH3ni-7kZ8C&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "About Binance Coin. Binance coin, represented as BNB, came into existence as a way to pay fees on the Binance cryptocurrency exchange. Along with its significant utility value, BN",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/0cda4c14-dc45-ffcd-58b5-97ef884b77d2",
+          "name": "The Today Show"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/7d777201-9209-9b85-e33d-5679eddf1326",
+          "name": "India Today"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/5ffc654b-d60d-4e3e-e8aa-64710142f36d",
+          "name": "Price"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NDTV",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.YXdId_fxzBA8knPxBT7cWA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T11:03:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Paul Catmur: Cryptocurrency - Free money or the biggest pyramid since Giza?",
+      "url": "https:\/\/www.nzherald.co.nz\/business\/paul-catmur-cryptocurrency-free-money-or-the-biggest-pyramid-since-giza\/WBO7GXMNU2YETVXRVNNWZOJCJU\/",
+      "description": "Hindsight can make billionaires of us all, writes Paul Catmur.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/d46c0748-fe94-5cd7-0871-4844bf7faf9f",
+          "name": "Giza"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The New Zealand Herald",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.h5PSiTwmPhAF0S_Ew_4zIg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T16:00:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "What You Need to Know About Crypto Taxes",
+      "url": "https:\/\/moneymorning.com\/2022\/01\/23\/what-you-need-to-know-about-crypto-taxes\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.KzQNURpJ2mW-mJzbgON8kC&pid=News",
+          "width": 700,
+          "height": 467
+        }
+      },
+      "description": "This could be as straightforward as buying and selling crypto, but it could also be a little more complicated when you dive into the world of NFT trading and crypto swapping. (Which is why today, we're going to tell you everything you need to know for the upcoming tax season.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9dd49936-bcb7-56ac-d769-f94d457bf532",
+          "name": "Tax"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Money Morning",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.n8grVlVJ2uuPnaNSAre2aA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T11:05:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Bitcoin price falls below $37,000 in tandem with tech selloff",
+      "url": "https:\/\/www.foxbusiness.com\/markets\/bitcoin-price-falls-below-37000-in-tandem-with-tech-selloff",
+      "description": "Bitcoin, the world's largest cryptocurrency by market value, fell below $37,000 Friday to its lowest dollar value since August 2021, according to CoinDesk. It settled at $36,689.39, down 11% from Thursday and down 46% from its record in November 2021.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a16424ea-9f92-a859-d865-bb88aaa9442b",
+          "name": "Tandem"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Fox Business",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.GimbRbdxNxZt1GEL5O0AJg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T10:15:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Recent Crypto drop explained.",
+      "url": "https:\/\/www.linkedin.com\/pulse\/recent-crypto-drop-explained-tabifor-king",
+      "description": "Crypto Adepts since Friday have noticed it! Cryptocurrency value is dropping! The obvious question comes. Why? Let’s briefly and concisely explain this.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "LinkedIn",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.9U20Y3UJQODn92MP4yeEXg&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T10:33:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Over 180,000 crypto investors liquidate following Bitcoin crash",
+      "url": "https:\/\/www.tvcnews.tv\/over-180000-crypto-investors-liquidate-following-bitcoin-crash\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.bJdFP-cUcVXpsNW_qRXoSS&pid=News",
+          "width": 600,
+          "height": 400
+        }
+      },
+      "description": "The Bitcoin market crashed on Friday, shocking many investors who lost money due to the crypto community's harsh reaction to government",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/26dac7d3-db1f-0a8d-f924-25256f6060ac",
+          "name": "TVC News"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "tvcnews.tv"
+        }
+      ],
+      "datePublished": "2022-01-23T11:04:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "New NY Mayor takes his first salary in cryptocurrency",
+      "url": "https:\/\/www.canindia.com\/new-ny-mayor-takes-his-first-salary-in-cryptocurrency\/",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.pKxdJEbmjIZD2BXf8g9m-C&pid=News",
+          "width": 324,
+          "height": 236
+        }
+      },
+      "description": "The newly elected Mayor of New York City Eric Adams has received his first paycheck in crypto via Coinbase’s Direct Deposit, media report says. According to ZDNet, Adams received his first paycheck in cryptocurrency — specifically,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+          "name": "New York"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/5a18d8d4-4b7e-daf0-3c88-612cf831ed5e",
+          "name": "Mayor"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Canindia.com",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.8u252vwdzcB8EAqitfy2ZQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T12:20:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Newly elected New York Mayor takes first salary in Cryptocurrency",
+      "url": "https:\/\/www.ummid.com\/news\/2022\/january\/22.01.2022\/newly-elected-new-york-mayor-takes-first-salary-in-cryptocurrency.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.uhkAmdJ6_1WOlfRV8lz43C&pid=News",
+          "width": 700,
+          "height": 469
+        }
+      },
+      "description": "The newly elected Mayor of New York City Eric Adams has received his first paycheck in crypto via Coinbase's Direct Deposit, media report says. According to ZDNet, Adams received his first paycheck in cryptocurrency -- specifically,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Ummid",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.9_Amf4V7FsPBVOyyKT2XDA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-22T13:23:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Impoverished Afghan women are receiving emergency aid in crypto as the Taliban limits cash withdrawals and millions go hungry",
+      "url": "https:\/\/news.yahoo.com\/impoverished-afghan-women-receiving-emergency-102836769.html",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.2rYrD1fUWMTMjR06mdcdcy&pid=News",
+          "width": 700,
+          "height": 524
+        }
+      },
+      "description": "The founder of a coding school for women in Herat is sending Binance payments to her neediest students amid a cash crunch and collapsing economy.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!News",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.nYADEgS75l8rdCg9D-p_OQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T10:28:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "$21K in Cryptocurrency Stolen from Gulfport Woman",
+      "url": "https:\/\/thegabber.com\/21k-in-cryptocurrency-stolen-from-gulfport-woman\/",
+      "description": "The alleged crypto theft remains under investigation, according to Gulfport Police Department Sergeant Thomas Woodman.",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/82297703-55a0-aea0-971f-aaf1abf80e3a",
+          "name": "Gulfport"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/4d57f5bf-e513-467a-90e6-b18a96600e37",
+          "name": "Cryptocurrency"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Gabber",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.KEb8T1wYbBPc0EUOa_hf3Q&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T02:13:00.0000000Z"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Bitcoin pyramid schemes wreak havoc on Brazil's 'New Egypt'",
+      "url": "https:\/\/www.ctpost.com\/business\/article\/Bitcoin-pyramid-schemes-wreak-havoc-on-Brazil-s-16796067.php",
+      "image": {
+        "_type": "ImageObject",
+        "thumbnail": {
+          "_type": "ImageObject",
+          "contentUrl": "https:\/\/www.bing.com\/th?id=OVFT.QMpeaCAKcp-U9xNnYSQk3y&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "Many view him as a modest Black man whose unorthodox Bitcoin business made them wealthy by gaming a financial system they believe is rigged by wealthy white elites. The case also underscores the fast-growing appetite for cryptocurrencies in Brazil,",
+      "about": [
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a828cf41-b938-49fe-7986-4b336618d413",
+          "name": "Brazil"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+          "name": "Bitcoin"
+        },
+        {
+          "_type": "Thing",
+          "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/ff0afe79-918c-cad5-7fe4-8e51135e4639",
+          "name": "Pyramid scheme"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Connecticut Post",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.Us09zUoC7X81yiK2T-msTA&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T11:29:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "_type": "NewsArticle",
+      "name": "Is Polkadot buy opportunity after the current dip?",
+      "url": "https:\/\/invezz.com\/news\/2022\/01\/23\/is-polkadot-buy-opportunity-after-the-current-dip\/",
+      "description": "Polkadot DOT\/USD has weakened from $55 to $16.20 since November 04, and the current price stands at $18.86. The cryptocurrency market has collapsed this trading week; Bitcoin went below $35000, and the price of DOT remains under pressure.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Invezz",
+          "image": {
+            "_type": "ImageObject",
+            "thumbnail": {
+              "_type": "ImageObject",
+              "contentUrl": "https:\/\/www.bing.com\/th?id=ODF.K2EoZW3yaWLOUsq4CrJwKQ&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2022-01-23T11:05:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    }
+  ]
+}
