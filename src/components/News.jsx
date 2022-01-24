@@ -2,8 +2,9 @@ import { useGetNewsQuery } from '../services/cryptoNewsApi'
 import { Select, Typography, Row, Col, Avatar, Card } from 'antd'
 import moment from 'moment'
 import { useState } from 'react'
-import { useGetCryptosQuery } from "../services/cryptoApi";
+import { useGetCryptosQuery } from '../services/cryptoApi'
 import demoImage from '../assets/th.jpeg'
+import Loader from './Loader'
 
 const { Text, Title } = Typography
 const { Option } = Select
@@ -14,7 +15,7 @@ const News = ({ simplified }) => {
   const { data: cryptoNews } = useGetNewsQuery({ newsCategory, count })
   const { data } = useGetCryptosQuery(100)
 
-  if (!cryptoNews?.value) return <div>Loading...</div>
+  if (!cryptoNews?.value) return <Loader/>
 
   return (
       <Row gutter={[24, 24]}>

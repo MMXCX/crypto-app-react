@@ -24,7 +24,7 @@ export const cryptoNewsApi = createApi({
   }
 })
 
-// export const { useGetNewsQuery } = cryptoNewsApi
+export const { useGetNewsQuery } = cryptoNewsApi
 
 // Offline mode
-export const useGetNewsQuery = () => ({isFetching: false, data: newsOffline})
+// export const useGetNewsQuery = () => ({isFetching: false, data: newsOffline})

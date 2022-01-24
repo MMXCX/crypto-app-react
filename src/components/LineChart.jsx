@@ -1,14 +1,5 @@
 import React from 'react';
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend
-} from 'chart.js';
+import { Chart as ChartJS,  CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js';
 import { Line } from 'react-chartjs-2';
 import { Col, Row, Typography } from 'antd'
 import millify from 'millify'
@@ -19,9 +10,11 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
   const coinPrice = []
   const coinTimestamp = []
 
-  for (let i = 0; i < coinHistory?.data?.history?.length; i++) {
-    coinPrice.push(coinHistory?.data?.history[i].price)
-    coinTimestamp.push(new Date(coinHistory?.data?.history[i].timestamp * 1000).toLocaleDateString())
+  const length = coinHistory?.data?.history?.length
+
+  for (let i = 0; i < length; i++) {
+    coinPrice.push(coinHistory?.data?.history[length - i - 1].price)
+    coinTimestamp.push(new Date(coinHistory?.data?.history[length - i - 1].timestamp * 1000).toLocaleDateString())
   }
 
   const data = {
@@ -56,7 +49,7 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
               $ {millify(currentPrice)}</Typography.Title>
           </Col>
         </Row>
-        <Line data={data} options={options} />
+        <Line data={data} options={options}/>
       </>
   )
 }

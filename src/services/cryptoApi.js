@@ -1,6 +1,7 @@
 import coinsOffline from '../offline/coins.json'
 import coinDetailsOffline from '../offline/coinDetails.json'
 import coinHistoryOffline from '../offline/coinHistory.json'
+import coinExchangesOffline from '../offline/coinExchanges.json'
 
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 const cryptoApiHeaders = {
@@ -29,6 +30,11 @@ export const cryptoApi = createApi({
         query({ coinId, timePeriod }) {
           return createRequest(`/coin/${coinId}/history?timePeriod=${timePeriod}`)
         }
+      }),
+      getCoinExchanges: builder.query({
+        query({ uuid, limit }) {
+          return createRequest(`/coin/${uuid}/exchanges?limit=${limit}`)
+        }
       })
     }
   }
@@ -36,11 +42,13 @@ export const cryptoApi = createApi({
 
 
 
-// export const { useGetCryptosQuery } = cryptoApi
-// export const { useGetCryptoDetailsQuery } = cryptoApi
-// export const { useGetCoinHistoryQuery } = cryptoApi
+export const { useGetCryptosQuery } = cryptoApi
+export const { useGetCryptoDetailsQuery } = cryptoApi
+export const { useGetCoinHistoryQuery } = cryptoApi
+export const { useGetCoinExchangesQuery } = cryptoApi
 
 // Offline mode
-export const useGetCryptosQuery = () => ({isFetching: false, data: coinsOffline})
-export const useGetCryptoDetailsQuery = () => ({isFetching: false, data: coinDetailsOffline})
-export const useGetCoinHistoryQuery = () => ({isFetching: false, data: coinHistoryOffline})
+// export const useGetCryptosQuery = () => ({isFetching: false, data: coinsOffline})
+// export const useGetCryptoDetailsQuery = () => ({isFetching: false, data: coinDetailsOffline})
+// export const useGetCoinHistoryQuery = () => ({isFetching: false, data: coinHistoryOffline})
+// export const useGetCoinExchangesQuery = () => ({isFetching: false, data: coinExchangesOffline})
